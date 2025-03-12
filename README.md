@@ -28,4 +28,4 @@
 
 ---
 
-Project implemented in MSSQL Server language
+Project implemented in MS SQLServer language
